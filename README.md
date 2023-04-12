@@ -1,6 +1,6 @@
 # XiaoHongShu_UserScript 小红书增强脚本
 ## 功能
----
+
 - 夜间模式/深色模式
 - 三栏模式(图/文/评)
 - 支持显示 emoji 表情
