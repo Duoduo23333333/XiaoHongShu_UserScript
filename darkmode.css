@@ -225,24 +225,35 @@ li:hover .text[data-v-0c47dcd6] {
 .icon[data-v-3e2cbc77] {
     color: rgba(190, 185, 179, 0.3);
 }
-.search-input[data-v-e3d2a08a] {
+.sug-wrapper[data-v-f2baf0b0] {
+    background-color: rgb(23, 25, 26);
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 4px,
+    rgba(0, 0, 0, 0.05) 0px 4px 32px;
+}
+.sug-wrapper .sug-item[data-v-f2baf0b0]:hover {
+    background-color: rgb(27, 28, 29);
+}
+.sug-wrapper .selected-sug[data-v-f2baf0b0] {
+    background-color: rgb(27, 28, 29);
+}
+.search-input[data-v-33bba8e5] {
     color: rgb(190, 185, 179);
     caret-color: rgb(242, 48, 75);
     background-image: initial;
     background-color: rgb(27, 28, 29);
 }
-.search-input[data-v-e3d2a08a]::placeholder {
+.search-input[data-v-33bba8e5]::placeholder {
     color: rgba(190, 185, 179, 0.3);
 }
-.input-button[data-v-e3d2a08a] {
+.input-button[data-v-33bba8e5] {
     color: rgba(190, 185, 179, 0.8);
 }
-.reds-button-new[data-v-e3d2a08a] {
+.reds-button-new[data-v-33bba8e5] {
     color: rgba(190, 185, 179, 0.8);
     background-image: initial;
     background-color: transparent;
 }
-.reds-button-new[data-v-e3d2a08a]:hover {
+.reds-button-new[data-v-33bba8e5]:hover {
     background-image: initial;
     background-color: rgb(27, 28, 29);
 }
@@ -954,24 +965,24 @@ a[data-v-22b97d20] {
 .interactions[data-v-52d47fae] {
     border-top-color: rgba(133, 123, 109, 0.1);
 }
-[data-v-50c0e63a] .note-content-user {
+[data-v-5e869130] .note-content-user {
     color: rgb(143, 185, 224);
 }
-.note-detail-mask[data-v-50c0e63a] {
+.note-detail-mask[data-v-5e869130] {
     background-image: initial;
     background-color: rgba(26, 28, 29, 0);
 }
-.note-detail-mask.active[data-v-50c0e63a] {
+.note-detail-mask.active[data-v-5e869130] {
     background-image: initial;
     background-color: rgba(23, 25, 26, 0.98);
 }
-.note-container[data-v-50c0e63a] {
+.note-container[data-v-5e869130] {
     border-color: rgba(133, 123, 109, 0.08);
     box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 100px;
     background-image: initial;
     background-color: rgb(23, 25, 26);
 }
-.media-container[data-v-50c0e63a] {
+.media-container[data-v-5e869130] {
     background-image: initial;
     background-color: rgb(27, 28, 29);
 }
@@ -1063,10 +1074,10 @@ div span[data-v-3faeb6a8] {
 .search-empty-wrapper .search-empty-text[data-v-85fe098e] {
     color: rgba(190, 185, 179, 0.6);
 }
-.filter[data-v-125978bc] {
+.filter[data-v-0f3186f2] {
     color: rgba(190, 185, 179, 0.8);
 }
-[data-v-125978bc]:hover {
+[data-v-0f3186f2]:hover {
     background-image: initial;
     background-color: rgb(27, 28, 29);
     color: rgb(190, 185, 179);
